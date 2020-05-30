@@ -26,6 +26,8 @@ public class Main {
 
         System.out.println("dev_to_test00");
 
+        System.out.println("dev");
+
     }
 
     public void test(int a ){
