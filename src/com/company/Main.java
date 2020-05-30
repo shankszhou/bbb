@@ -24,6 +24,8 @@ public class Main {
 
         System.out.println("dev_redis...");
 
+        System.out.println("dev_to_test00");
+
     }
 
     public void test(int a ){
