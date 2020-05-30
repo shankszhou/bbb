@@ -20,6 +20,10 @@ public class Main {
             System.out.println("["+uuid+"]");
         }
 
+        System.out.println("test...");
+
+        System.out.println("dev_redis...");
+
     }
 
     public void test(int a ){
