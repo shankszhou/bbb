@@ -24,6 +24,8 @@ public class Main {
 
         System.out.println("dev_redis...");
 
+        System.out.println("test00 branch");
+
     }
 
     public void test(int a ){
